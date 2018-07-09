@@ -66,6 +66,5 @@ p.row {
 }
 
 table {
-  border: 0px;
-  outline-styles:solid;
+  border-radius: 10px;
 }
