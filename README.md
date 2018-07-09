@@ -5,6 +5,6 @@
   ### Description
    This project is about Anita's Kitchen and the various types of food they offer.
    #### Link to my Project
-   [https://dgichuru.github.io/Project2/] {click here}
+   https://dgichuru.github.io/Project2/
    
    
