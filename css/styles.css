@@ -55,7 +55,7 @@ p.row {
   background-position: center;
   background-attachment: fixed;
   background-size: cover;
-  padding-bottom: 150px;
+  padding-bottom: 50px;
   padding-top: 90px;
 }
 #h {
@@ -63,4 +63,9 @@ p.row {
   text-align: center;
   padding-bottom: 30px;
   padding-top: 70px;
+}
+
+table {
+  border: 0px;
+  outline-styles:solid;
 }
