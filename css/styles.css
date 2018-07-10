@@ -76,7 +76,8 @@ h3 {
 
 #g {
   background-image: url("../assets/backgrounds/subscribe.jpg");
-  padding-bottom: 120px;
+  padding-bottom: 150px;
+  padding-top: 120px;
   float: center;
   background-image: fixed;
 }
@@ -95,7 +96,7 @@ h3 {
 }
 
 #drinks {
-  box-shadow: 0px 0px 29px 1px rgba(0,0,0,0.75);
+  box-shadow: 0px 0px 29px 1px rgba(0,0,0,0.5);
   box-sizing: border-box;
 }
 #foods {
@@ -119,4 +120,7 @@ h3:hover {
 
 #drink {
   text-align: right
+}
+.formButton {
+  shape-outside: ellipse();
 }
