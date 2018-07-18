@@ -4,7 +4,7 @@
   background-size: cover;
   background-image: fixed;
   background-position: center;
-  padding-bottom: 20px;
+  padding-bottom: 30px;
 }
 
 .navy {
@@ -17,7 +17,7 @@
 p.row {
   color: black;
 }
-<style type='text/css'>
+
 
 #b {
   padding: 20px;
@@ -51,14 +51,9 @@ p.row {
   padding-top: 90px;
   text-decoration-color: white;
 }
-</style>
-
-<style type='text.css'>
 
 
-#fast {
 
-}
 
 #e {
   background-image: url("../assets/backgrounds/foodsBg.jpg");
@@ -115,7 +110,7 @@ h3 {
   background-color: white;
 }
 h3:hover {
-  background-color: : white;
+  background-color:black;
 }
 
 .text {
