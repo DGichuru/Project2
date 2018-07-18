@@ -4,7 +4,7 @@
   background-size: cover;
   background-image: fixed;
   background-position: center;
-  padding-bottom: 30px;
+  padding-bottom: 40px;
 }
 
 .navy {
@@ -20,7 +20,14 @@ p.row {
 
 
 #b {
-  padding: 20px;
+  padding: 0px;
+}
+#partytime {
+  background-color: #F15A29;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 55px;
+  padding-top:55px;
 }
 
 #breakfast {
