@@ -17,7 +17,7 @@
 p.row {
   color: black;
 }
-<style type='text/css'>
+
 
 #b {
   padding: 20px;
@@ -51,14 +51,10 @@ p.row {
   padding-top: 90px;
   text-decoration-color: white;
 }
-</style>
-
-<style type='text.css'>
 
 
-#fast {
 
-}
+
 
 #e {
   background-image: url("../assets/backgrounds/foodsBg.jpg");
@@ -75,8 +71,7 @@ p.row {
   padding-top: 70px;
 }
 
-table {
-}
+
 h3 {
   color: white;
 }
@@ -115,15 +110,13 @@ h3 {
   background-color: white;
 }
 h3:hover {
-  background-color: : white;
+  background-color: white;
 }
 
 .text {
   text-align: center;
 }
-.formStyle {
 
-}
 
 #drink {
   text-align: right
@@ -133,4 +126,36 @@ h3:hover {
 }
 dish3 {
   text-align: center;
+}
+
+/* Style all font awesome icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-pinterest {
+  background: #cb2027;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
 }
